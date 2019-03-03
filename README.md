@@ -10,10 +10,28 @@
 - [ ] Famous communities in Quantitative Trading
 - [ ] Research Papers
 
+### Useful Tools
+
+[TradingView](https://www.tradingview.com/), Trading charts and libraries for trading related projects.
+
 ### Quantitative Trading Platforms
 
 [RiceQuant](https://www.ricequant.com/) - A Chinese Quantitative Trading Platform project.
 
+<!-- ### Trading Terminals
+
+### Libraries
+
+### Trading Models
+
+### APIs
+
+### Source Data
+
+### Community Groups & Forums
+
+### Research papers & Books -->
+
 ### Contribution Guides
 
-*Will be added soon.*
+See [CONTRIBUTING.md](/CONTRIBUTING.md)
